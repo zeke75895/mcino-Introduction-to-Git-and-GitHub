@@ -1,0 +1,8 @@
+kelechiotiocha@MacBook-Air-4 mcino-Introduction-to-Git-and-GitHub % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+kelechiotiocha@MacBook-Air-4 mcino-Introduction-to-Git-and-GitHub % git merge bug-fix-typo
+Updating 9d63f32..9654555
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
